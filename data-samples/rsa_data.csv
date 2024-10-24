@@ -1,0 +1,277 @@
+Age,Sex,Participant,CasualtyType,2011,2012
+0 - 5 ,M,Pedestrians,Injured,39,40
+0 - 5 ,M,Pedestrians,Killed,0,0
+0 - 5 ,M,Pedal cyclists,Injured,3,1
+0 - 5 ,M,Pedal cyclists,Killed,1,0
+0 - 5 ,M,Motor cyclists,Injured,0,0
+0 - 5 ,M,Motor cyclists,Killed,0,0
+0 - 5 ,M,Car drivers,Injured,0,0
+0 - 5 ,M,Car drivers,Killed,0,83
+0 - 5 ,M,Car passengers,Injured,54,83
+0 - 5 ,M,Car passengers,Killed,1,0
+0 - 5 ,M,Other road users,Injured,2,2
+0 - 5 ,M,Other road users,Killed,0,0
+0 - 5 ,F,Pedestrians,Injured,24,29
+0 - 5 ,F,Pedestrians,Killed,0,2
+0 - 5 ,F,Pedal cyclists,Injured,0,1
+0 - 5 ,F,Pedal cyclists,Killed,0,0
+0 - 5 ,F,Motor cyclists,Injured,0,0
+0 - 5 ,F,Motor cyclists,Killed,0,0
+0 - 5 ,F,Car drivers,Injured,0,0
+0 - 5 ,F,Car drivers,Killed,0,0
+0 - 5 ,F,Car passengers,Injured,69,56
+0 - 5 ,F,Car passengers,Killed,0,0
+0 - 5 ,F,Other road users,Injured,0,2
+0 - 5 ,F,Other road users,Killed,0,0
+06-Sep,M,Pedestrians,Injured,45,41
+06-Sep,M,Pedestrians,Killed,1,1
+06-Sep,M,Pedal cyclists,Injured,18,12
+06-Sep,M,Pedal cyclists,Killed,1,0
+06-Sep,M,Motor cyclists,Injured,0,0
+06-Sep,M,Motor cyclists,Killed,0,0
+06-Sep,M,Car drivers,Injured,0,0
+06-Sep,M,Car drivers,Killed,0,0
+06-Sep,M,Car passengers,Injured,40,54
+06-Sep,M,Car passengers,Killed,0,0
+06-Sep,M,Other road users,Injured,8,2
+06-Sep,M,Other road users,Killed,0,0
+06-Sep,F,Pedestrians,Injured,23,20
+06-Sep,F,Pedestrians,Killed,0,0
+06-Sep,F,Pedal cyclists,Injured,2,2
+06-Sep,F,Pedal cyclists,Killed,0,0
+06-Sep,F,Motor cyclists,Injured,0,0
+06-Sep,F,Motor cyclists,Killed,0,0
+06-Sep,F,Car drivers,Injured,0,0
+06-Sep,F,Car drivers,Killed,0,0
+06-Sep,F,Car passengers,Injured,49,48
+06-Sep,F,Car passengers,Killed,0,0
+06-Sep,F,Other road users,Injured,0,0
+06-Sep,F,Other road users,Killed,0,0
+Oct-14,M,Pedestrians,Injured,51,54
+Oct-14,M,Pedestrians,Killed,1,0
+Oct-14,M,Pedal cyclists,Injured,25,31
+Oct-14,M,Pedal cyclists,Killed,0,0
+Oct-14,M,Motor cyclists,Injured,2,1
+Oct-14,M,Motor cyclists,Killed,0,0
+Oct-14,M,Car drivers,Injured,0,0
+Oct-14,M,Car drivers,Killed,0,0
+Oct-14,M,Car passengers,Injured,54,62
+Oct-14,M,Car passengers,Killed,0,0
+Oct-14,M,Other road users,Injured,17,8
+Oct-14,M,Other road users,Killed,0,0
+Oct-14,F,Pedestrians,Injured,43,52
+Oct-14,F,Pedestrians,Killed,1,0
+Oct-14,F,Pedal cyclists,Injured,2,6
+Oct-14,F,Pedal cyclists,Killed,0,0
+Oct-14,F,Motor cyclists,Injured,0,0
+Oct-14,F,Motor cyclists,Killed,0,0
+Oct-14,F,Car drivers,Injured,0,0
+Oct-14,F,Car drivers,Killed,0,0
+Oct-14,F,Car passengers,Injured,52,67
+Oct-14,F,Car passengers,Killed,1,0
+Oct-14,F,Other road users,Injured,1,1
+Oct-14,F,Other road users,Killed,0,0
+15 - 17 ,M,Pedestrians,Injured,20,37
+15 - 17 ,M,Pedestrians,Killed,0,1
+15 - 17 ,M,Pedal cyclists,Injured,14,26
+15 - 17 ,M,Pedal cyclists,Killed,0,0
+15 - 17 ,M,Motor cyclists,Injured,6,8
+15 - 17 ,M,Motor cyclists,Killed,0,0
+15 - 17 ,M,Car drivers,Injured,33,26
+15 - 17 ,M,Car drivers,Killed,3,2
+15 - 17 ,M,Car passengers,Injured,79,94
+15 - 17 ,M,Car passengers,Killed,1,4
+15 - 17 ,M,Other road users,Injured,27,13
+15 - 17 ,M,Other road users,Killed,2,0
+15 - 17 ,F,Pedestrians,Injured,23,24
+15 - 17 ,F,Pedestrians,Killed,1,0
+15 - 17 ,F,Pedal cyclists,Injured,2,4
+15 - 17 ,F,Pedal cyclists,Killed,0,0
+15 - 17 ,F,Motor cyclists,Injured,1,0
+15 - 17 ,F,Motor cyclists,Killed,0,0
+15 - 17 ,F,Car drivers,Injured,13,16
+15 - 17 ,F,Car drivers,Killed,0,0
+15 - 17 ,F,Car passengers,Injured,67,96
+15 - 17 ,F,Car passengers,Killed,2,0
+15 - 17 ,F,Other road users,Injured,3,5
+15 - 17 ,F,Other road users,Killed,1,0
+18 - 20 ,M,Pedestrians,Injured,42,40
+18 - 20 ,M,Pedestrians,Killed,3,0
+18 - 20 ,M,Pedal cyclists,Injured,13,22
+18 - 20 ,M,Pedal cyclists,Killed,1,0
+18 - 20 ,M,Motor cyclists,Injured,17,9
+18 - 20 ,M,Motor cyclists,Killed,0,2
+18 - 20 ,M,Car drivers,Injured,145,157
+18 - 20 ,M,Car drivers,Killed,7,4
+18 - 20 ,M,Car passengers,Injured,143,155
+18 - 20 ,M,Car passengers,Killed,4,2
+18 - 20 ,M,Other road users,Injured,48,35
+18 - 20 ,M,Other road users,Killed,1,2
+18 - 20 ,F,Pedestrians,Injured,22,29
+18 - 20 ,F,Pedestrians,Killed,0,0
+18 - 20 ,F,Pedal cyclists,Injured,6,9
+18 - 20 ,F,Pedal cyclists,Killed,0,0
+18 - 20 ,F,Motor cyclists,Injured,2,1
+18 - 20 ,F,Motor cyclists,Killed,0,0
+18 - 20 ,F,Car drivers,Injured,104,97
+18 - 20 ,F,Car drivers,Killed,4,2
+18 - 20 ,F,Car passengers,Injured,1280,117
+18 - 20 ,F,Car passengers,Killed,1,0
+18 - 20 ,F,Other road users,Injured,9,16
+18 - 20 ,F,Other road users,Killed,1,0
+21 - 24 ,M,Pedestrians,Injured,43,56
+21 - 24 ,M,Pedestrians,Killed,2,0
+21 - 24 ,M,Pedal cyclists,Injured,22,31
+21 - 24 ,M,Pedal cyclists,Killed,2,0
+21 - 24 ,M,Motor cyclists,Injured,28,29
+21 - 24 ,M,Motor cyclists,Killed,0,0
+21 - 24 ,M,Car drivers,Injured,179,189
+21 - 24 ,M,Car drivers,Killed,7,10
+21 - 24 ,M,Car passengers,Injured,141,172
+21 - 24 ,M,Car passengers,Killed,1,7
+21 - 24 ,M,Other road users,Inured,46,48
+21 - 24 ,M,Other road users,Killed,2,1
+21 - 24 ,F,Pedestrians,Injured,17,22
+21 - 24 ,F,Pedestrians,Killed,0,0
+21 - 24 ,F,Pedal cyclists,Injured,11,9
+21 - 24 ,F,Pedal cyclists,Killed,0,0
+21 - 24 ,F,Motor cyclists,Injured,4,3
+21 - 24 ,F,Motor cyclists,Killed,0,0
+21 - 24 ,F,Car drivers,Injured,177,148
+21 - 24 ,F,Car drivers,Killed,2,3
+21 - 24 ,F,Car passengers,Injured,126,95
+21 - 24 ,F,Car passengers,Killed,0,1
+21 - 24 ,F,Other road users,Injured,16,9
+21 - 24 ,F,Other road users,Killed,1,1
+25 - 34 ,M,Pedestrians,Injured,99,79
+25 - 34 ,M,Pedestrians,Killed,7,3
+25 - 34 ,M,Pedal cyclists,Injured,61,101
+25 - 34 ,M,Pedal cyclists,Killed,1,0
+25 - 34 ,M,Motor cyclists,Injured,87,77
+25 - 34 ,M,Motor cyclists,Killed,8,8
+25 - 34 ,M,Car drivers,Injured,379,377
+25 - 34 ,M,Car drivers,Killed,8,8
+25 - 34 ,M,Car passengers,Injured,188,199
+25 - 34 ,M,Car passengers,Killed,6,1
+25 - 34 ,M,Other road users,Injured,137,105
+25 - 34 ,M,Other road users,Killed,5,3
+25 - 34 ,F,Pedestrians,Injured,53,49
+25 - 34 ,F,Pedestrians,Killed,0,0
+25 - 34 ,F,Pedal cyclists,Injured,29,56
+25 - 34 ,F,Pedal cyclists,Killed,0,0
+25 - 34 ,F,Motor cyclists,Injured,10,9
+25 - 34 ,F,Motor cyclists,Killed,0,2
+25 - 34 ,F,Car drivers,Injured,370,384
+25 - 34 ,F,Car drivers,Killed,3,8
+25 - 34 ,F,Car passengers,Injured,175,192
+25 - 34 ,F,Car passengers,Killed,3,2
+25 - 34 ,F,Other road users,Injured,32,24
+25 - 34 ,F,Other road users,Killed,0,0
+35 - 44 ,M,Pedestrians,Injured,39,69
+35 - 44 ,M,Pedestrians,Killed,5,0
+35 - 44 ,M,Pedal cyclists,Injured,50,105
+35 - 44 ,M,Pedal cyclists,Killed,2,2
+35 - 44 ,M,Motor cyclists,Injured,62,79
+35 - 44 ,M,Motor cyclists,Killed,6,3
+35 - 44 ,M,Car drivers,Injured,291,351
+35 - 44 ,M,Car drivers,Killed,7,3
+35 - 44 ,M,Car passengers,Injured,71,89
+35 - 44 ,M,Car passengers,Killed,1,0
+35 - 44 ,M,Other road users,Injured,93,86
+35 - 44 ,M,Other road users,Killed,1,4
+35 - 44 ,F,Pedestrians,Injured,28,41
+35 - 44 ,F,Pedestrians,Killed,4,0
+35 - 44 ,F,Pedal cyclists,Injured,14,34
+35 - 44 ,F,Pedal cyclists,Killed,0,1
+35 - 44 ,F,Motor cyclists,Injured,6,6
+35 - 44 ,F,Motor cyclists,Killed,0,0
+35 - 44 ,F,Car drivers,Injured,294,335
+35 - 44 ,F,Car drivers,Killed,4,3
+35 - 44 ,F,Car passengers,Injured,72,120
+35 - 44 ,F,Car passengers,Killed,0,0
+35 - 44 ,F,Other road users,Injured,20,14
+35 - 44 ,E,Other road users,Killed,0,0
+45 - 54 ,M,Pedestrians,Injured,50,46
+45 - 54 ,M,Pedestrians,Killed,3,3
+45 - 54 ,M,Pedal cyclists,Injured,44,72
+45 - 54 ,M,Pedal cyclists,Killed,0,1
+45 - 54 ,M,Motor cyclists,Injured,43,63
+45 - 54 ,M,Motor cyclists,Killed,1,2
+45 - 54 ,M,Car drivers,Injured,191,213
+45 - 54 ,M,Car drivers,Killed,1,2
+45 - 54 ,M,Car passengers,Injured,36,41
+45 - 54 ,M,Car passengers,Killed,0,1
+45 - 54 ,M,Other road users,Injured,58,79
+45 - 54 ,M,Other road users,Killed,1,2
+55 - 64 ,M,Pedestrians,Injured,51,50
+55 - 64 ,M,Pedestrians,Killed,2,3
+55 - 64 ,M,Pedal cyclists,Injured,21,32
+55 - 64 ,M,Pedal cyclists,Killed,1,1
+55 - 64 ,M,Motor cyclists,Injured,23,23
+55 - 64 ,M,Motor cyclists,Killed,1,1
+55 - 64 ,M,Car drivers,Injured,101,135
+55 - 64 ,M,Car drivers,Killed,3,2
+55 - 64 ,M,Car passengers,Injured,32,28
+55 - 64 ,M,Car passengers,Killed,0,0
+55 - 64 ,M,Other road users,Injured,42,43
+55 - 64 ,M,Other road users,Killed,1,2
+55 - 64 ,F,Pedestrians,Injured,36,39
+55 - 64 ,F,Pedestrians,Killed,1,1
+55 - 64 ,F,Pedal cyclists,Injured,6,10
+55 - 64 ,F,Pedal cyclists,Killed,0,0
+55 - 64 ,F,Motor cyclists,Injured,5,3
+55 - 64 ,F,Motor cyclists,Killed,0,0
+55 - 64 ,F,Car drivers,Injured,119,165
+55 - 64 ,F,Car drivers,Killed,1,1
+55 - 64 ,F,Car passengers,Injured,57,62
+55 - 64 ,F,Car passengers,Killed,3,0
+55 - 64 ,F,Other road users,Injured,8,6
+55 - 64 ,F,Other road users,Killed,0,0
+65  and over,M,Pedestrians,Injured,48,54
+65  and over,M,Pedestrians,Killed,9,9
+65  and over,M,Pedal cyclists,Injured,13,12
+65  and over,M,Pedal cyclists,Killed,0,-999
+65  and over,M,Motor cyclists,Injured,7,5
+65  and over,M,Motor cyclists,Killed,1,0
+65  and over,M,Car drivers,Injured,152,177
+65  and over,M,Car drivers,Killed,6,5
+65  and over,M,Car passengers,Injured,25,30
+65  and over,M,Car passengers,Killed,1,2
+65  and over,M,Other road users,Injured,25,21
+65  and over,M,Other road users,Killed,1,1
+65  and over,F,Pedestrians,Injured,73,69
+65  and over,F,Pedestrians,Killed,6,5
+65  and over,F,Pedal cyclists,Injured,1,4
+65  and over,F,Pedal cyclists,Killed,0,1
+65  and over,F,Motor cyclists,Injured,0,0
+65  and over,F,Motor cyclists,Killed,1,0
+65  and over,F,Car drivers,Injured,101,117
+65  and over,F,Car drivers,Killed,7,7
+65  and over,F,Car passengers,Injured,78,88
+65  and over,F,Car passengers,Killed,5,5
+65  and over,F,Other road users,Injured,7,10
+65  and over,F,Other road users,Killed,0,1
+Age unknown,Male,Pedestrians,Injured,7,6
+Age unknown,Male,Pedestrians,Killed,0,0
+Age unknown,Male,Pedal cyclists,Injured,5,10
+Age unknown,Male,Pedal cyclists,Killed,0,0
+Age unknown,Male,Motor cyclists,Injured,4,6
+Age unknown,Male,Motor cyclists,Killed,0,0
+Age unknown,Male,Car drivers,Injured,10,15
+Age unknown,Male,Car drivers,Killed,0,0
+Age unknown,Male,Car passengers,Injured,12,7
+Age unknown,Male,Car passengers,Killed,0,0
+Age unknown,Male,Other road users,Injured,8,2
+Age unknown,Male,Other road users,Killed,0,0
+Age unknown,Female,Pedestrians,Injured,6,6
+Age unknown,Female,Pedestrians,Killed,0,0
+Age unknown,Female,Pedal cyclists,Injured,1,0
+Age unknown,Female,Pedal cyclists,Killed,0,0
+Age unknown,Female,Motor cyclists,Injured,1,0
+Age unknown,Female,Motor cyclists,Killed,0,0
+Age unknown,Female,Car drivers,Injured,4,6
+Age unknown,Female,Car drivers,Killed,0,0
+Age unknown,Female,Car passengers,Injured,10,11
+Age unknown,Female,Car passengers,Killed,0,0
+Age unknown,Female,Other road users,Injured,0,0
+Age unknown,Female,Other road users,Killed,0,0
